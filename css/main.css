@@ -29,6 +29,8 @@ div.main_div
     margin-bottom: 200px;
     margin-left: 450px;
     padding: 25px;
+    max-width: 100%;
+    float: left;
 
     text-align: left;
 }
